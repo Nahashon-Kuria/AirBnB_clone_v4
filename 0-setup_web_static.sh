@@ -8,7 +8,7 @@ sudo echo "<html>
   <head>
   </head>
   <body>
-    ALX School
+    Holberton School
   </body>
 </html>" | sudo tee /data/web_static/releases/test/index.html
 sudo ln -sf /data/web_static/releases/test/ /data/web_static/current
